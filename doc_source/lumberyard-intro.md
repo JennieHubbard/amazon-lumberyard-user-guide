@@ -23,7 +23,7 @@ For more information, see the following topics:
 
 ### Asset Changes<a name="lumberyard-aaa-engine-asset-changes"></a>
 
-With the Lumberyard's Asset Processor, you can quickly get assets into the engine\. Save a file \(for example, from Maya or Photoshop\) into a directory, and the Asset Processor automatically processes that file from source art into game\-ready assets\. If you edit an asset, Lumberyard detects the change and automatically updates it in the background\.
+With Lumberyard's Asset Processor, you can quickly get assets into the engine\. Save a file \(for example, from Maya or Photoshop\) into a directory, and the Asset Processor automatically processes that file from source art into game\-ready assets\. If you edit an asset, Lumberyard detects the change and automatically updates it in the background\.
 
 For more information, see [Using Asset Processor](asset-pipeline-processor.md)\.
 
